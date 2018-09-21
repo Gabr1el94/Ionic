@@ -25,7 +25,7 @@ export class FeedPage {
   }
 
   ionViewDidLoad() {
-      this.TwoValues(9,5);
+      //this.TwoValues(9,5);
   }
 
 }
